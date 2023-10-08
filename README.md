@@ -18,8 +18,7 @@ In windows 7 give the command arp -a
 ## OUTPUT:
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
-![image](https://github.com/Dhanashreemullaithasan/ARP-Attack-and-Network-Sniffing/assets/94165415/3c071163-9b52-4104-bff9-6aa2e1c12b39)
-
+![image](https://github.com/Dhanashreemullaithasan/ARP-Attack-and-Network-Sniffing/assets/94165415/3a6fbed5-3745-4b5d-af43-1aedaccfbf2f)
 ## OUTPUT:
  dsniff:
 ![image](https://github.com/Dhanashreemullaithasan/ARP-Attack-and-Network-Sniffing/assets/94165415/1f5a4533-4202-48e1-a1f6-5033b380cc41)
